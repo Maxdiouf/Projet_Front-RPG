@@ -1,2 +1,2 @@
 # Projet_Front-RPG
-Jeu RPG réalisé dans le cadre des cours front-end.
+Un projet dont le but était de réaliser dans le cadre de nos cours  en front-end.
