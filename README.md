@@ -10,9 +10,9 @@ Les fonctionnalités demandées
 <br>
 1. fonctionnalités imposées
 
-<h3>Possibilité de déplacer le héro de zone en zone.
-Le déplacement se fait via les touches du clavier.
-Des objets sont nécessaires pour passer dans certaines zones sinon on est bloqué.
-Nous rencontrons des personnages non-joueurs (pnj).
-Lors de ces rencontres une texte s'affiche pour présenter quelque-chose.
-Création d'un inventaire qu'on affiche.
+<h6>Possibilité de déplacer le héro de zone en zone.<br>
+Le déplacement se fait via les touches du clavier.<br>
+Des objets sont nécessaires pour passer dans certaines zones sinon on est bloqué.<br>
+Nous rencontrons des personnages non-joueurs (pnj).<br>
+Lors de ces rencontres une texte s'affiche pour présenter quelque-chose.<br>
+Création d'un inventaire qu'on affiche.<br>
